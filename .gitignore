@@ -1,0 +1,15 @@
+# Ignore metadata
+*.json
+
+# Ignore compiled files
+*.exe
+*.out
+*.class
+*.o
+
+# Ignore test files
+input.txt
+output.txt
+
+# Ignore VS Code settings
+.vscode/
